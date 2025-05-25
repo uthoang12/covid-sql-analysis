@@ -1,1 +1,2 @@
-select all from new_table
+select location where new_cases >50
+from 
